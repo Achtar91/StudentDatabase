@@ -1,5 +1,5 @@
-# StudentDatabase
-This was my first complet project , i choose C language because it was the first language that  i learned .
-It's a program that save information about students . 
-build it using structers , string  , arrys , loops , etc , the software was done with out gui .
-I tried a lot to make my own ideas but when i was stuck , i used google to find some solutions for some of the problems  . 
+Project that stores information about students , written in C language, used file functions ,
+structure , strings ,switch, loops and other necessary things , created functions for every
+task . The project took a lot of time to make it work in the right way , made a simple
+sketch on the paper and from that went to build my first own project , did not use the C
+language graphics so the program is without any Gui .
